@@ -6,4 +6,4 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-rustc-main = { git = "https://github.com/rust-lang/rust/" }
+rustc-main = "0.0.0"
